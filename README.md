@@ -5,7 +5,7 @@
 - Clone this repo to your local system:
 
 ```bash
-$ git clone https://github.com/robert-mcdermott/git-class-roster.git
+$ git clone https://github.com/fredhutch/git-class-roster.git
 $ cd git-class-roster
 ```
 
@@ -23,5 +23,5 @@ $ git commit -m "added username information to the roster"
 $ git push origin update_roster_username  # replace "username" with your actual username
 ```
 
-- Switch to the GitHub website for the repo: https://github.com/robert-mcdermott/git-class-roster
+- Switch to the GitHub website for the repo: https://github.com/fredhutch/git-class-roster
 - Create a pull request targeting the master branch. Make sure you include "closes #x" where 'x' is you student number in the body of you pull request (this will automatically close your assigned issue when the pull request is merged"
