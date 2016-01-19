@@ -1,6 +1,6 @@
 ## Intoduction to Git & GitHub Class Roster Project
 
-#### Please add your information the "roster.html" file buy doing the following:
+#### Please add your information the "roster.html" file by doing the following:
 
 - Clone this repo to your local system:
 
