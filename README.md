@@ -25,3 +25,5 @@ $ git push origin update_roster_username  # replace "username" with your actual 
 
 - Switch to the GitHub website for the repo: https://github.com/fredhutch/git-class-roster
 - Create a pull request targeting the master branch. Make sure you include "closes #x" where 'x' is you student number in the body of you pull request (this will automatically close your assigned issue when the pull request is merged"
+
+- When the roster is complete it will be deployed to a server the cloud (with a single git command) and will be availible here: http://git-class-roster.dokku.fredhutch.center 
