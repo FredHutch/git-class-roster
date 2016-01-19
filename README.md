@@ -24,4 +24,4 @@ $ git push origin update_roster_username  # replace "username" with your actual 
 ```
 
 - Switch to the GitHub website for the repo: https://github.com/robert-mcdermott/git-class-roster
-- Create a pull request targeting the master branch
+- Create a pull request targeting the master branch. Make sure you include "closes #x" where 'x' is you student number in the body of you pull request (this will automatically close your assigned issue when the pull request is merged"
